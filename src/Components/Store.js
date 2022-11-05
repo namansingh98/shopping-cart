@@ -10,10 +10,8 @@ function Main() {
    {productArray.map((product,idx) =>(
         <Col align='center' key={idx}>
       <ProductCard product={product} />
-       
-      </Col>
+       </Col>
       ))}
-    
       </Row>  
   </>
   )
