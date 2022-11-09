@@ -1,3 +1,5 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -12,3 +14,5 @@ code {
     monospace;
 }
 
+
+.container-fluid{margin: 0!important;padding: 0!important;}
